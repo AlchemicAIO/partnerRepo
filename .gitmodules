@@ -1,3 +1,6 @@
 [submodule "partnerRepo"]
 	path = partnerRepo
 	url = https://github.com/AlchemicAIO/partnerRepo.git
+[submodule "Linux-cheatSheet"]
+	path = Linux-cheatSheet
+	url = https://github.com/Birthwright1/Linux-cheatSheet.git
