@@ -1,0 +1,3 @@
+[submodule "partnerRepo"]
+	path = partnerRepo
+	url = https://github.com/AlchemicAIO/partnerRepo.git
